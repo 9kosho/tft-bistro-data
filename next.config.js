@@ -1,6 +1,12 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-}
+const withTM = require("next-transpile-modules")([]);
 
-module.exports = nextConfig
+const nextConfig = {
+    output: "export",
+    reactStrictMode: true,
+    images: {
+        unoptimized: true,
+    },
+};
+
+module.exports = withTM(nextConfig);
