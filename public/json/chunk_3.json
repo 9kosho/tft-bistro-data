@@ -1,0 +1,1662 @@
+[
+  {
+    "metadata": {
+      "data_version": "5",
+      "match_id": "NA1_5027761131",
+      "participants": [
+        "kXvYeiwO4O0PQd3mIk8ANc9Ox0sIokA4RVZXrg14WtUleDfwes9vmUBX3A85YJxyHznvTXxl43MjSw",
+        "nkPMDpO38l3sHmcvsyehLHOU0_sHzdAopbOa0IZcTVhC20CWHOtUROytD_eL8nlhuNnyns5KQahIcA",
+        "-ue5zdcEKJpyn9vZxYL8mYSGjgezwJp1mKInIrFc13P6XOAZpk_0pgygCcP6zpi_F4fS45TBAvlrjQ",
+        "ehX3hHhV6RLjadhy4NMZ54V-VWaLefFBk1ENyIVXMVimrheMY-4dL5y40zVSsY9L4dfc5X6wH3Q6DQ",
+        "2xHTiIeXyR-ZtKxQJps_4Fou9jliSYz73JAcLGovxIMrxB536jTMCFLFTH5d4mHkMc8l9Mfs2iJLdA",
+        "sKU8qHbvIMCUMVaxg1LzajekxASSyc57AFQ8RzYCooo5wENyU44v_fnPm38-qGqORL23fMev59-R3g",
+        "bi2h9wgBAIZJ2O0YNZwercb4Jx6P5okcPBS8-P8FzCkZbziI6_AUM7VM6jioE7uFlv4wAmkqAtq5Pg",
+        "0ljiyfgR1zESQClJLO7NG6EREZPH509LeEKWWQudC4ZYkSC0zhZ-OuRtS3uNCjH4ymi-nvzqSH7oBQ"
+      ]
+    },
+    "info": {
+      "endOfGameResult": "GameComplete",
+      "gameCreation": 1719402489000,
+      "gameId": 5027761131,
+      "game_datetime": 1719404756154,
+      "game_length": 2234.4990234375,
+      "game_version": "Linux Version 14.13.596.7996 (Jun 21 2024/16:23:19) [PUBLIC] <Releases/14.13>",
+      "mapId": 22,
+      "participants": [
+        {
+          "rank": 385,
+          "summonerName": "aliensuper3",
+          "tier": "grandmaster",
+          "leaguePoints": 627,
+          "region": "na1",
+          "augments": [
+            {
+              "name": "Iron Assets",
+              "rarity": 1,
+              "description": "Gain a component anvil and 4 gold.<br><br><rules>The anvil offers 4 choices.</rules>"
+            },
+            {
+              "name": " The Golden Remover",
+              "rarity": 1,
+              "description": "Gain a Golden Remover and component item anvil.<br><br><rules>Golden Remover is an Item Remover with infinite uses.</rules>"
+            },
+            {
+              "name": "Cybernetic Bulk II",
+              "rarity": 2,
+              "description": "Your champions holding an item gain 300 health."
+            }
+          ],
+          "companion": {
+            "content_ID": "13dc2579-fca0-45ab-8e24-378437da48eb",
+            "item_ID": 75002,
+            "skin_ID": 2,
+            "species": "PetChibiSett"
+          },
+          "gold_left": 19,
+          "last_round": 39,
+          "level": 9,
+          "missions": {
+            "PlayerScore2": 222
+          },
+          "placement": 1,
+          "players_eliminated": 3,
+          "puuid": "bi2h9wgBAIZJ2O0YNZwercb4Jx6P5okcPBS8-P8FzCkZbziI6_AUM7VM6jioE7uFlv4wAmkqAtq5Pg",
+          "time_eliminated": 2226.2880859375,
+          "total_damage_to_players": 164,
+          "traits": [
+            {
+              "name": "Arcanist",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 4,
+              "description": "Arcanists gain Ability&nbsp;Power and grant Ability&nbsp;Power to allies.(@MinUnits@) @TeamAbilityPower@&nbsp;%i:scaleAP% to all allies.(@MinUnits@) @ArcanistAbilityPower@&nbsp;%i:scaleAP% for Arcanists; @TeamAbilityPower@&nbsp;%i:scaleAP% for others(@MinUnits@) @ArcanistAbilityPower@&nbsp;%i:scaleAP% for Arcanists; @TeamAbilityPower@&nbsp;%i:scaleAP% for others(@MinUnits@) @ArcanistAbilityPower@&nbsp;%i:scaleAP% for Arcanists; @TeamAbilityPower@&nbsp;%i:scaleAP% for others"
+            },
+            {
+              "name": "Behemoth",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 3,
+              "description": "Behemoths gain increased Armor and Magic&nbsp;Resist. Whenever a Behemoth dies, the nearest Behemoth gains @BonusPercent*100@% more for @Duration@ seconds.(@MinUnits@) @Defenses@&nbsp;%i:scaleArmor%%i:scaleMR%"
+            },
+            {
+              "name": "Bruiser",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 4,
+              "description": "Your team gains @TeamBonusHealth@ maximum Health. Bruisers gain additional maximum Health. (@MinUnits@) @BonusPercentHealth*100@%&nbsp;%i:scaleHealth%(@MinUnits@) @BonusPercentHealth*100@%&nbsp;%i:scaleHealth%(@MinUnits@) @BonusPercentHealth*100@%&nbsp;%i:scaleHealth%(@MinUnits@) @BonusPercentHealth*100@%&nbsp;%i:scaleHealth%; Every @RefreshSeconds@&nbsp;seconds, Bruisers deal @SlamPercentHealth*100@%&nbsp;%i:scaleHealth% bonus physical&nbsp;damage on their next attack."
+            },
+            {
+              "name": "Dryad",
+              "num_units": 4,
+              "style": 3,
+              "tier_current": 2,
+              "tier_total": 3,
+              "description": "Dryads gain Ability Power and @StartingHealth@ Health. Each enemy death grants permanent additional Health.(@MinUnits@) @AP@&nbsp;%i:scaleAP%; @HealthPerCompost@&nbsp;%i:scaleHealth% per enemy death(Total health: @TFTUnitProperty.trait:TFT11_Trait_DryadHealth@&nbsp;%i:scaleHealth%)(Enemies killed: @TFTUnitProperty.trait:TFT11_Trait_DryadCompost@)"
+            },
+            {
+              "name": "Exalted",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 2,
+              "description": "Your team gains @BaseDamageAmp@% bonus damage, plus more based on your level.After combat, store XP in a Soul Core. Sell the Core to claim the XP.(@MinUnits@) @DamageAmpPerLevel@% damage per level, @BaseAmountXP@ XP.(@MinUnits@) @DamageAmpPerLevel@% damage per level, @BaseAmountXP@ XP.(Current bonus: @TFTUnitProperty.trait:TFT11_Trait_Exalted_CurrentBonus@%). Each game a different set of units is Exalted."
+            },
+            {
+              "name": "Fated",
+              "num_units": 5,
+              "style": 2,
+              "tier_current": 2,
+              "tier_total": 4,
+              "description": "Hover one Fated unit over another to form a pair and unlock a Fated Bonus. Your pair gains @PairHPBonus*100@% %i:scaleHealth%.(@MinUnits@) Pair gets the Fated Bonus. (@MinUnits@) All Fated champions get @BondIncreasePercent*100@% of the Fated Bonus (@MinUnits@) All Fated champions get @BondIncreasePercent*100@% of the Fated Bonus (@MinUnits@) All Fated champions gain @BondIncreasePercent*100@% of EVERY Fated Bonus "
+            },
+            {
+              "name": "Invoker",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 3,
+              "description": "Every @TickRate@ seconds, your units gain Mana.(@MinUnits@) @TeamMana@&nbsp;%i:scaleMana% to all allies.(@MinUnits@) @InvokerMana@&nbsp;%i:scaleMana% to Invokers; @TeamMana@&nbsp;%i:scaleMana% to others.(@MinUnits@) @InvokerMana@&nbsp;%i:scaleMana% to Invokers; @TeamMana@&nbsp;%i:scaleMana% to others."
+            },
+            {
+              "name": "Reaper",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 2,
+              "description": "(@MinUnits@) Reapers' Abilities can critically strike and they gain @CritChance*100@% Critical Strike Chance.(@MinUnits@) Additionally, Reapers bleed enemies for @BleedDamage*100@% bonus true damage over @Duration@&nbsp;seconds."
+            },
+            {
+              "name": "Umbral",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 4,
+              "description": "The moon illuminates hexes, Shielding units placed in them at the start of combat. Umbral units in illuminated hexes execute low Health enemies.(@MinUnits@) @ShieldAmount@&nbsp;Shield; @DesireExecuteThreshhold@% Health execute(@MinUnits@) @ShieldAmount@&nbsp;Shield; @DesireExecuteThreshhold@% Health execute. More hexes are illuminated (@MinUnits@) @ShieldAmount@&nbsp;Shield; @DesireExecuteThreshhold@% Health execute. Illuminate the whole board(@MinUnits@) Executed enemies have a @DesireExecuteRewardPercent*100@% chance to drop loot; @DesireExecuteThreshhold@% Health execute "
+            },
+            {
+              "name": "Warden",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 3,
+              "description": "Wardens take less damage. For the first @Duration@&nbsp;seconds of combat, they take an additional @StartOfCombatDRPercent@% less damage. (@MinUnits@) @DRPercent@% less damage"
+            }
+          ],
+          "units": [
+            {
+              "name": "Ahri",
+              "rarity": 0,
+              "tier": 2,
+              "items": [],
+              "traits": [
+                "Fated",
+                "Arcanist"
+              ]
+            },
+            {
+              "name": "Rek'Sai",
+              "rarity": 0,
+              "tier": 2,
+              "items": [],
+              "traits": [
+                "Dryad",
+                "Bruiser"
+              ]
+            },
+            {
+              "name": "Kindred",
+              "rarity": 1,
+              "tier": 2,
+              "items": [],
+              "traits": [
+                "Fated",
+                "Dryad",
+                "Reaper"
+              ]
+            },
+            {
+              "name": "Thresh",
+              "rarity": 2,
+              "tier": 2,
+              "items": [],
+              "traits": [
+                "Fated",
+                "Behemoth"
+              ]
+            },
+            {
+              "name": "Syndra",
+              "rarity": 4,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Guardbreaker",
+                  "description": "After damaging a Shield, deal 25% more damage for 3 seconds."
+                },
+                {
+                  "name": "Blue Buff",
+                  "description": "Max mana reduced by 10. When the holder gets a takedown, they deal 8% more damage for 8 seconds.[Unique - only 1 per champion]"
+                },
+                {
+                  "name": "Jeweled Gauntlet",
+                  "description": "Abilities can critically strike.If the holder's abilities can already critically strike, gain 10% Critical Strike Damage instead."
+                }
+              ],
+              "traits": [
+                "Fated",
+                "Arcanist"
+              ]
+            },
+            {
+              "name": "Sylas",
+              "rarity": 4,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Tear of the Goddess",
+                  "description": "%i:scaleMana% +15 Mana"
+                }
+              ],
+              "traits": [
+                "Umbral",
+                "Bruiser"
+              ]
+            },
+            {
+              "name": "Ornn",
+              "rarity": 4,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Crownguard",
+                  "description": "Combat start: Gain a 30% max Health Shield for 8 seconds.When the shield expires, gain 35 Ability Power."
+                },
+                {
+                  "name": "Dragon's Claw",
+                  "description": "Gain 9% max health.Every 2 seconds, heal 5% max Health."
+                },
+                {
+                  "name": "Ionic Spark",
+                  "description": "30% Shred enemies within 2 hexes. When enemies cast an Ability, deal magic damage equal to 160% of their maximum Mana.Shred: Reduce Magic Resist"
+                }
+              ],
+              "traits": [
+                "Dryad",
+                "Behemoth"
+              ]
+            },
+            {
+              "name": "Sett",
+              "rarity": 6,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Dragon's Claw",
+                  "description": "Gain 9% max health.Every 2 seconds, heal 5% max Health."
+                }
+              ],
+              "traits": [
+                "Fated",
+                "Umbral",
+                "Warden"
+              ]
+            },
+            {
+              "name": "Azir",
+              "rarity": 6,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Spear of Shojin",
+                  "description": "Attacks grant 5 bonus Mana."
+                },
+                {
+                  "name": "Spear of Shojin",
+                  "description": "Attacks grant 5 bonus Mana."
+                },
+                {
+                  "name": "Morellonomicon",
+                  "description": "Attacks and Abilities deal 1% Burn and 33% Wound to enemies for 10 seconds.[Unique - only 1 per champion]Burn: Deals a percent of the target's maximum Health as true damage every secondWound: Reduces healing received"
+                }
+              ],
+              "traits": [
+                "Dryad",
+                "Invoker"
+              ]
+            }
+          ]
+        }
+      ],
+      "queueId": 1100,
+      "queue_id": 1100,
+      "tft_game_type": "standard",
+      "tft_set_core_name": "TFTSet11",
+      "tft_set_number": 11,
+      "patchVersion": "14.13"
+    }
+  },
+  {
+    "metadata": {
+      "data_version": "5",
+      "match_id": "NA1_5027759489",
+      "participants": [
+        "GzWEn7pAqTWbiIfo3GBsApRGroA67xD4Rhrp-vt6Nlrtm8A1UnaJ20kyUDGIhR3ijsOC5EAoGGv_zg",
+        "RrohRcGqGsbSr_n7G-fxpyCiEHWpOeAFX0YPJFbkvFWS_CyXIL0zL6QeyAHbSqEIxnZyTKPBdqVsOA",
+        "tlJgzQ2HbzOUs7IuMubIiOiwq3J86a_O8xpx7T5xDwrwXEWXx5se-WXRW1raMx2zwn0kXRUa6tFBeQ",
+        "vAYWLzkDwls3rHp0EW_63bdtkpQ6qw24683FFvPefwg4eV8r6sHfOxPvdlqLyzfQ_5EgXKbTIJw2Mg",
+        "pxRU0UqxjYErMfwwaiovZj1abN95fYE4CFBOSivjWCB9Dd1Kp20GqW1HIqFZdTFRE_Mz7xmphpAWVA",
+        "Dp-atmiVqfhm-FwbcwXkQoa5pRqZYNeKyuhIydJZEyPWZU3HpWAe9H1rCv-pZUwzc-6ZMy9IzHKQxQ",
+        "vcPSJG1goLOf41CSyTo9nIdpsnGQ8ePCaSM_KObwb9C0tDCfEamEC8awZVapvfJ2otEqZJMNmmwrIg",
+        "DTU18b8jnRBJKWlyYYTXwhQ0kcYd_e4AiqqiIpwIujFtYw9LFVDtyPrgMjWrP9ig9_-pKaNYYr8B9Q"
+      ]
+    },
+    "info": {
+      "endOfGameResult": "GameComplete",
+      "gameCreation": 1719404044000,
+      "gameId": 5027759489,
+      "game_datetime": 1719406289010,
+      "game_length": 2193.102294921875,
+      "game_version": "Linux Version 14.13.596.4541 (Jun 20 2024/17:19:43) [PUBLIC] <Releases/14.13>",
+      "mapId": 22,
+      "participants": [
+        {
+          "rank": 743,
+          "summonerName": "mikaduki",
+          "tier": "grandmaster",
+          "leaguePoints": 415,
+          "region": "na1",
+          "augments": [
+            {
+              "name": "Gargantuan Resolve",
+              "rarity": 2,
+              "description": "Gain a Titan's Resolve. Your Titan's Resolves can continue stacking to 40 instead of 25."
+            },
+            {
+              "name": "Little Buddies",
+              "rarity": 2,
+              "description": "Your 4-cost and 5-cost champions gain 65 Health and 9% Attack Speed  for every 1-cost and 2-cost champion on your board."
+            },
+            {
+              "name": "Teaming Up II",
+              "rarity": 2,
+              "description": "Gain 1 random Support item and 2 random 4-cost champions."
+            }
+          ],
+          "companion": {
+            "content_ID": "7d785920-c646-4845-bcd1-a6bfa206a90b",
+            "item_ID": 6062,
+            "skin_ID": 62,
+            "species": "PetPenguKnight"
+          },
+          "gold_left": 5,
+          "last_round": 37,
+          "level": 9,
+          "missions": {
+            "PlayerScore2": 218
+          },
+          "placement": 1,
+          "players_eliminated": 3,
+          "puuid": "tlJgzQ2HbzOUs7IuMubIiOiwq3J86a_O8xpx7T5xDwrwXEWXx5se-WXRW1raMx2zwn0kXRUa6tFBeQ",
+          "time_eliminated": 2184.891357421875,
+          "total_damage_to_players": 185,
+          "traits": [
+            {
+              "name": "Bruiser",
+              "num_units": 4,
+              "style": 2,
+              "tier_current": 2,
+              "tier_total": 4,
+              "description": "Your team gains @TeamBonusHealth@ maximum Health. Bruisers gain additional maximum Health. (@MinUnits@) @BonusPercentHealth*100@%&nbsp;%i:scaleHealth%(@MinUnits@) @BonusPercentHealth*100@%&nbsp;%i:scaleHealth%(@MinUnits@) @BonusPercentHealth*100@%&nbsp;%i:scaleHealth%(@MinUnits@) @BonusPercentHealth*100@%&nbsp;%i:scaleHealth%; Every @RefreshSeconds@&nbsp;seconds, Bruisers deal @SlamPercentHealth*100@%&nbsp;%i:scaleHealth% bonus physical&nbsp;damage on their next attack."
+            },
+            {
+              "name": "Dryad",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 3,
+              "description": "Dryads gain Ability Power and @StartingHealth@ Health. Each enemy death grants permanent additional Health.(@MinUnits@) @AP@&nbsp;%i:scaleAP%; @HealthPerCompost@&nbsp;%i:scaleHealth% per enemy death(Total health: @TFTUnitProperty.trait:TFT11_Trait_DryadHealth@&nbsp;%i:scaleHealth%)(Enemies killed: @TFTUnitProperty.trait:TFT11_Trait_DryadCompost@)"
+            },
+            {
+              "name": "Fated",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 4,
+              "description": "Hover one Fated unit over another to form a pair and unlock a Fated Bonus. Your pair gains @PairHPBonus*100@% %i:scaleHealth%.(@MinUnits@) Pair gets the Fated Bonus. (@MinUnits@) All Fated champions get @BondIncreasePercent*100@% of the Fated Bonus (@MinUnits@) All Fated champions get @BondIncreasePercent*100@% of the Fated Bonus (@MinUnits@) All Fated champions gain @BondIncreasePercent*100@% of EVERY Fated Bonus "
+            },
+            {
+              "name": "Ghostly",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 4,
+              "description": "Upon dealing or taking damage @NumInstances@ times, Ghostly units send @NumSpectres@ spectres to haunt nearby enemies and heal @HealingPercent*100@%&nbsp;max Health every @TickRate@ seconds. Haunted enemies take bonus damage for each spectre on them, and pass spectres on death.(@MinUnits@) @DamagePercent*100@% per spectre"
+            },
+            {
+              "name": "Great",
+              "num_units": 1,
+              "style": 5,
+              "tier_current": 1,
+              "tier_total": 1,
+              "description": "Every @CastCount@ casts, Wukong grows his weapon, modifying his Abilities."
+            },
+            {
+              "name": "Heavenly",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 6,
+              "description": "Heavenly units grant unique stats to your team, increased for each Heavenly unit in play. Heavenly units gain @SelfishHeavenlyBonus*100@% more.(@MinUnits@) @HeavenlyBonus*100@%&nbsp;bonus.Kha'Zix - &nbsp;%i:scaleCrit% @TFTUnitProperty.trait:TFT11_Trait_Heavenly_Crit@%Malphite - &nbsp;%i:scaleArmor%&nbsp;%i:scaleMR% @TFTUnitProperty.trait:TFT11_Trait_Heavenly_Defenses@Neeko - &nbsp;%i:scaleHealth% @TFTUnitProperty.trait:TFT11_Trait_Heavenly_Health@Qiyana - &nbsp;%i:scaleAD% @TFTUnitProperty.trait:TFT11_Trait_Heavenly_AD@%Soraka - &nbsp;%i:scaleAP% @TFTUnitProperty.trait:TFT11_Trait_Heavenly_AP@%Wukong - &nbsp;%i:scaleAS% @TFTUnitProperty.trait:TFT11_Trait_Heavenly_AS@%Emblem - &nbsp;Omnivamp @TFTUnitProperty.trait:TFT11_Trait_Heavenly_Omnivamp@%"
+            },
+            {
+              "name": "Inkshadow",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 3,
+              "description": "Gain unique Inkshadow items. Inkshadow champions gain @PercentBuff@% bonus damage and damage reduction.(@MinUnits@) @TFTUnitProperty.trait:TFT11_Trait_Inkshadow_Item1@(@MinUnits@) @TFTUnitProperty.trait:TFT11_Trait_Inkshadow_Item2@ and @IncreasedPercentBuff@% more bonus damage and damage reduction (@MinUnits@) @TFTUnitProperty.trait:TFT11_Trait_Inkshadow_Item3@, @TFTUnitProperty.trait:TFT11_Trait_Inkshadow_Item4@, and @IncreasedPercentBuff@% more bonus damage and damage reduction."
+            },
+            {
+              "name": "Porcelain",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 3,
+              "description": "After casting, Porcelain champions boil, gaining Attack Speed and taking less damage for @Duration@&nbsp;seconds.(@MinUnits@) @AS*100@%&nbsp;%i:scaleAS%; @DR*100@%&nbsp;reduced damage"
+            },
+            {
+              "name": "Reaper",
+              "num_units": 4,
+              "style": 3,
+              "tier_current": 2,
+              "tier_total": 2,
+              "description": "(@MinUnits@) Reapers' Abilities can critically strike and they gain @CritChance*100@% Critical Strike Chance.(@MinUnits@) Additionally, Reapers bleed enemies for @BleedDamage*100@% bonus true damage over @Duration@&nbsp;seconds."
+            },
+            {
+              "name": "Sage",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 4,
+              "description": "Combat start: Allies in the front 2&nbsp;rows gain Omnivamp. Allies in the back 2&nbsp;rows gain Ability&nbsp;Power.(@MinUnits@) @Omnivamp*100@%&nbsp;Omnivamp, @APAmount@&nbsp;%i:scaleAP%"
+            },
+            {
+              "name": "Storyweaver",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 4,
+              "description": "Storyweavers summon a Hero named Kayle and evolve her. Storyweavers gain max Health.(@MinUnits@) Pick a supportive effect. @Health@&nbsp;%i:scaleHealth%(@MinUnits@) Pick a combat effect. @Health@&nbsp;%i:scaleHealth%(@MinUnits@) Pick a combat effect. @Health@&nbsp;%i:scaleHealth%(@MinUnits@) Ascend. @Health@&nbsp;%i:scaleHealth%Each Storyweaver star level increases Kayle's Health and Ability Power. Kayle gets @BonusASPerStage*100@% Attack Speed for each game Stage."
+            },
+            {
+              "name": "Umbral",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 4,
+              "description": "The moon illuminates hexes, Shielding units placed in them at the start of combat. Umbral units in illuminated hexes execute low Health enemies.(@MinUnits@) @ShieldAmount@&nbsp;Shield; @DesireExecuteThreshhold@% Health execute(@MinUnits@) @ShieldAmount@&nbsp;Shield; @DesireExecuteThreshhold@% Health execute. More hexes are illuminated (@MinUnits@) @ShieldAmount@&nbsp;Shield; @DesireExecuteThreshhold@% Health execute. Illuminate the whole board(@MinUnits@) Executed enemies have a @DesireExecuteRewardPercent*100@% chance to drop loot; @DesireExecuteThreshhold@% Health execute "
+            }
+          ],
+          "units": [
+            {
+              "name": "Kha'Zix",
+              "rarity": 0,
+              "tier": 2,
+              "items": [],
+              "traits": [
+                "Heavenly",
+                "Reaper"
+              ]
+            },
+            {
+              "name": "Rek'Sai",
+              "rarity": 0,
+              "tier": 2,
+              "items": [],
+              "traits": [
+                "Dryad",
+                "Bruiser"
+              ]
+            },
+            {
+              "name": "Kindred",
+              "rarity": 1,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Morellonomicon",
+                  "description": "Attacks and Abilities deal 1% Burn and 33% Wound to enemies for 10 seconds.[Unique - only 1 per champion]Burn: Deals a percent of the target's maximum Health as true damage every secondWound: Reduces healing received"
+                },
+                {
+                  "name": "The Eternal Flame",
+                  "description": "While the holder is alive, all enemies are 33% Wounded and all allies deal 8% more damage. This effect refreshes every 5 seconds.​​[Support item]Wound: Reduces healing received"
+                },
+                {
+                  "name": "Spear of Shojin",
+                  "description": "Attacks grant 5 bonus Mana."
+                }
+              ],
+              "traits": [
+                "Fated",
+                "Dryad",
+                "Reaper"
+              ]
+            },
+            {
+              "name": "Aatrox",
+              "rarity": 1,
+              "tier": 2,
+              "items": [],
+              "traits": [
+                "Ghostly",
+                "Inkshadow",
+                "Bruiser"
+              ]
+            },
+            {
+              "name": "Yone",
+              "rarity": 2,
+              "tier": 3,
+              "items": [
+                {
+                  "name": "Titan's Resolve",
+                  "description": "Gain 2% Attack Damage and 1 Ability Power when attacking or taking damage, stacking up to 25 times.  At full stacks, gain 20 Armor and @BonusResistsAtStackCap@ Magic Resist."
+                },
+                {
+                  "name": "Bloodthirster",
+                  "description": "Gain 20% Omnivamp.Once per combat at 40% Health, gain a 25% max Health Shield that lasts up to 5 seconds.Omnivamp: heal for some of damage dealt"
+                },
+                {
+                  "name": "Titan's Resolve",
+                  "description": "Gain 2% Attack Damage and 1 Ability Power when attacking or taking damage, stacking up to 25 times.  At full stacks, gain 20 Armor and @BonusResistsAtStackCap@ Magic Resist."
+                }
+              ],
+              "traits": [
+                "Umbral",
+                "Reaper"
+              ]
+            },
+            {
+              "name": "Sylas",
+              "rarity": 4,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Porcelain Emblem",
+                  "description": "The holder gains the Porcelain trait.[Unique - only 1 per champion.]"
+                }
+              ],
+              "traits": [
+                "Umbral",
+                "Bruiser"
+              ]
+            },
+            {
+              "name": "Kayn",
+              "rarity": 4,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Titan's Resolve",
+                  "description": "Gain 2% Attack Damage and 1 Ability Power when attacking or taking damage, stacking up to 25 times.  At full stacks, gain 20 Armor and @BonusResistsAtStackCap@ Magic Resist."
+                },
+                {
+                  "name": "Hand Of Justice",
+                  "description": "Gain 2 effects:15% Attack Damage and 15 Ability Power.15% Omnivamp.Each round, randomly double 1 of these effects.Omnivamp: heal for some of damage dealt"
+                },
+                {
+                  "name": "Bloodthirster",
+                  "description": "Gain 20% Omnivamp.Once per combat at 40% Health, gain a 25% max Health Shield that lasts up to 5 seconds.Omnivamp: heal for some of damage dealt"
+                }
+              ],
+              "traits": [
+                "Ghostly",
+                "Reaper"
+              ]
+            },
+            {
+              "name": "Galio",
+              "rarity": 4,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Evenshroud",
+                  "description": "30% Sunder enemies within 2 hexes. Gain 25 Armor and Magic Resist for the first 10 seconds of combat.Sunder: Reduce Armor"
+                },
+                {
+                  "name": "Adaptive Helm",
+                  "description": "Combat start: Gain different bonuses based on starting position.Front Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.Back Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds."
+                },
+                {
+                  "name": "Gargoyle Stoneplate",
+                  "description": "Gain 10 Armor and 10 Magic Resist for each enemy targeting the holder."
+                }
+              ],
+              "traits": [
+                "Storyweaver",
+                "Bruiser"
+              ]
+            },
+            {
+              "name": "Wukong",
+              "rarity": 6,
+              "tier": 1,
+              "items": [],
+              "traits": [
+                "Great",
+                "Heavenly",
+                "Sage"
+              ]
+            }
+          ]
+        }
+      ],
+      "queueId": 1100,
+      "queue_id": 1100,
+      "tft_game_type": "standard",
+      "tft_set_core_name": "TFTSet11",
+      "tft_set_number": 11,
+      "patchVersion": "14.13"
+    }
+  },
+  {
+    "metadata": {
+      "data_version": "5",
+      "match_id": "NA1_5027757921",
+      "participants": [
+        "KiuIqVbsP0u7GTzN9suuEF2Csi_XEe08gGOy3rnwq4l98JXc6PjgJZDHPdYalnCMkmfgSiHn5DNveQ",
+        "TYyx3wOBOQ344BpaWYIZIy5m1QbnZNgayy3ZNy5O6K_5tznRJyqCakLaUwM8mXwv5FAs3qOFoJSxMA",
+        "fIVuSAFLk8t_oiqfZNtppSR1rdTpHIi6036RIJ5zP8PCy1vSyt7OqpxGGM1a8Iv7BGf5wSquit9DyA",
+        "h872hr1tIWmpf24wmcTPrU7kgSeh-m70T43_E8MAqFZ9DnlNcs2-m-Vtx0eMvJh78e_BqaGyV4HiGw",
+        "0ljiyfgR1zESQClJLO7NG6EREZPH509LeEKWWQudC4ZYkSC0zhZ-OuRtS3uNCjH4ymi-nvzqSH7oBQ",
+        "rcli7NnWpv8USezOevV0FofVaeBBBrr5bx4Pd6-LTUe33qxtHvEdnv9QybQIHONepwUcbN8cWQD7tg",
+        "EUGl24LbIm9qti5WvkEmsisPYRP_z-USBj7lxpBSm1QYlss5Owzvp31dSw57Lg7Y_L8bP6fWyh_LOA",
+        "xwqWlC45S0p7fLPkVXnl2tP9P_SHN7Utx69JE5Yzxm9GqRee1g5K7EyxXK3BWVbsG7U3cdgYdAgQSw"
+      ]
+    },
+    "info": {
+      "endOfGameResult": "GameComplete",
+      "gameCreation": 1719400816000,
+      "gameId": 5027757921,
+      "game_datetime": 1719403370451,
+      "game_length": 2531.74072265625,
+      "game_version": "Linux Version 14.13.596.4541 (Jun 20 2024/17:19:43) [PUBLIC] <Releases/14.13>",
+      "mapId": 22,
+      "participants": [
+        {
+          "rank": 185,
+          "summonerName": "PogiTheCorgi",
+          "tier": "challenger",
+          "leaguePoints": 874,
+          "region": "na1",
+          "augments": [
+            {
+              "name": "Storied Champion",
+              "rarity": 2,
+              "description": "Gain a 2-star Garen. Your strongest Garen's Ability now grants stacking max Health instead of Shield. If he has more max Health than his target, his Ability deals 45% bonus true damage."
+            },
+            {
+              "name": "Gifts from the Fallen",
+              "rarity": 2,
+              "description": "Your team gains 3% Attack Damage, 3 Ability Power, 3 Armor, and 3 Magic Resist. <br><br>Each time an ally dies, gain these stats again."
+            },
+            {
+              "name": "Cybernetic Uplink II",
+              "rarity": 2,
+              "description": "Your champions holding an item gain 120 Health and restore 2.5 Mana per second."
+            }
+          ],
+          "companion": {
+            "content_ID": "67767735-216f-4b32-b9fb-abdf5259ebc3",
+            "item_ID": 9043,
+            "skin_ID": 43,
+            "species": "PetSpiritFox"
+          },
+          "gold_left": 4,
+          "last_round": 40,
+          "level": 10,
+          "missions": {
+            "PlayerScore2": 252
+          },
+          "placement": 1,
+          "players_eliminated": 1,
+          "puuid": "xwqWlC45S0p7fLPkVXnl2tP9P_SHN7Utx69JE5Yzxm9GqRee1g5K7EyxXK3BWVbsG7U3cdgYdAgQSw",
+          "time_eliminated": 2523.56884765625,
+          "total_damage_to_players": 218,
+          "traits": [
+            {
+              "name": "Arcanist",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 4,
+              "description": "Arcanists gain Ability&nbsp;Power and grant Ability&nbsp;Power to allies.(@MinUnits@) @TeamAbilityPower@&nbsp;%i:scaleAP% to all allies.(@MinUnits@) @ArcanistAbilityPower@&nbsp;%i:scaleAP% for Arcanists; @TeamAbilityPower@&nbsp;%i:scaleAP% for others(@MinUnits@) @ArcanistAbilityPower@&nbsp;%i:scaleAP% for Arcanists; @TeamAbilityPower@&nbsp;%i:scaleAP% for others(@MinUnits@) @ArcanistAbilityPower@&nbsp;%i:scaleAP% for Arcanists; @TeamAbilityPower@&nbsp;%i:scaleAP% for others"
+            },
+            {
+              "name": "Dryad",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 3,
+              "description": "Dryads gain Ability Power and @StartingHealth@ Health. Each enemy death grants permanent additional Health.(@MinUnits@) @AP@&nbsp;%i:scaleAP%; @HealthPerCompost@&nbsp;%i:scaleHealth% per enemy death(Total health: @TFTUnitProperty.trait:TFT11_Trait_DryadHealth@&nbsp;%i:scaleHealth%)(Enemies killed: @TFTUnitProperty.trait:TFT11_Trait_DryadCompost@)"
+            },
+            {
+              "name": "Exalted",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 2,
+              "description": "Your team gains @BaseDamageAmp@% bonus damage, plus more based on your level.After combat, store XP in a Soul Core. Sell the Core to claim the XP.(@MinUnits@) @DamageAmpPerLevel@% damage per level, @BaseAmountXP@ XP.(@MinUnits@) @DamageAmpPerLevel@% damage per level, @BaseAmountXP@ XP.(Current bonus: @TFTUnitProperty.trait:TFT11_Trait_Exalted_CurrentBonus@%). Each game a different set of units is Exalted."
+            },
+            {
+              "name": "Fated",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 4,
+              "description": "Hover one Fated unit over another to form a pair and unlock a Fated Bonus. Your pair gains @PairHPBonus*100@% %i:scaleHealth%.(@MinUnits@) Pair gets the Fated Bonus. (@MinUnits@) All Fated champions get @BondIncreasePercent*100@% of the Fated Bonus (@MinUnits@) All Fated champions get @BondIncreasePercent*100@% of the Fated Bonus (@MinUnits@) All Fated champions gain @BondIncreasePercent*100@% of EVERY Fated Bonus "
+            },
+            {
+              "name": "Fortune",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 3,
+              "description": "When you lose a player combat, gain Luck. The more fights in a row you lose, the more Luck you get.Lose Luck when you win. (@MinUnits@) Roll a die; in that many player combats, hold a Festival where you may convert your Luck into rewards.(@MinUnits@) Heal @Heal@ player health at the start of each player combat. @TFTUnitProperty.:TFT11_Trait_Fortune7Tooltip@Each Festival, roll a new die."
+            },
+            {
+              "name": "Ghostly",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 4,
+              "description": "Upon dealing or taking damage @NumInstances@ times, Ghostly units send @NumSpectres@ spectres to haunt nearby enemies and heal @HealingPercent*100@%&nbsp;max Health every @TickRate@ seconds. Haunted enemies take bonus damage for each spectre on them, and pass spectres on death.(@MinUnits@) @DamagePercent*100@% per spectre"
+            },
+            {
+              "name": "Great",
+              "num_units": 1,
+              "style": 5,
+              "tier_current": 1,
+              "tier_total": 1,
+              "description": "Every @CastCount@ casts, Wukong grows his weapon, modifying his Abilities."
+            },
+            {
+              "name": "Heavenly",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 6,
+              "description": "Heavenly units grant unique stats to your team, increased for each Heavenly unit in play. Heavenly units gain @SelfishHeavenlyBonus*100@% more.(@MinUnits@) @HeavenlyBonus*100@%&nbsp;bonus.Kha'Zix - &nbsp;%i:scaleCrit% @TFTUnitProperty.trait:TFT11_Trait_Heavenly_Crit@%Malphite - &nbsp;%i:scaleArmor%&nbsp;%i:scaleMR% @TFTUnitProperty.trait:TFT11_Trait_Heavenly_Defenses@Neeko - &nbsp;%i:scaleHealth% @TFTUnitProperty.trait:TFT11_Trait_Heavenly_Health@Qiyana - &nbsp;%i:scaleAD% @TFTUnitProperty.trait:TFT11_Trait_Heavenly_AD@%Soraka - &nbsp;%i:scaleAP% @TFTUnitProperty.trait:TFT11_Trait_Heavenly_AP@%Wukong - &nbsp;%i:scaleAS% @TFTUnitProperty.trait:TFT11_Trait_Heavenly_AS@%Emblem - &nbsp;Omnivamp @TFTUnitProperty.trait:TFT11_Trait_Heavenly_Omnivamp@%"
+            },
+            {
+              "name": "Inkshadow",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 3,
+              "description": "Gain unique Inkshadow items. Inkshadow champions gain @PercentBuff@% bonus damage and damage reduction.(@MinUnits@) @TFTUnitProperty.trait:TFT11_Trait_Inkshadow_Item1@(@MinUnits@) @TFTUnitProperty.trait:TFT11_Trait_Inkshadow_Item2@ and @IncreasedPercentBuff@% more bonus damage and damage reduction (@MinUnits@) @TFTUnitProperty.trait:TFT11_Trait_Inkshadow_Item3@, @TFTUnitProperty.trait:TFT11_Trait_Inkshadow_Item4@, and @IncreasedPercentBuff@% more bonus damage and damage reduction."
+            },
+            {
+              "name": "Mythic",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 4,
+              "description": "Mythic champions gain Health, Ability Power, and Attack Damage.After 4 player combats, they become Epic, increasing the bonus by @Multiplier*100@%.(@MinUnits@) +@HealthPct*100@%&nbsp;%i:scaleHealth%, @AP@%&nbsp;%i:scaleAP%%i:scaleAD%(@MinUnits@) +@HealthPct*100@%&nbsp;%i:scaleHealth%, @AP@%&nbsp;%i:scaleAP%%i:scaleAD%(@MinUnits@) +@HealthPct*100@%&nbsp;%i:scaleHealth%, @AP@%&nbsp;%i:scaleAP%%i:scaleAD%(@MinUnits@) Instantly become Epic. The bonus is increased by @PrismaticMultiplier*100@% instead."
+            },
+            {
+              "name": "Sage",
+              "num_units": 4,
+              "style": 3,
+              "tier_current": 3,
+              "tier_total": 4,
+              "description": "Combat start: Allies in the front 2&nbsp;rows gain Omnivamp. Allies in the back 2&nbsp;rows gain Ability&nbsp;Power.(@MinUnits@) @Omnivamp*100@%&nbsp;Omnivamp, @APAmount@&nbsp;%i:scaleAP%"
+            },
+            {
+              "name": "Storyweaver",
+              "num_units": 3,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 4,
+              "description": "Storyweavers summon a Hero named Kayle and evolve her. Storyweavers gain max Health.(@MinUnits@) Pick a supportive effect. @Health@&nbsp;%i:scaleHealth%(@MinUnits@) Pick a combat effect. @Health@&nbsp;%i:scaleHealth%(@MinUnits@) Pick a combat effect. @Health@&nbsp;%i:scaleHealth%(@MinUnits@) Ascend. @Health@&nbsp;%i:scaleHealth%Each Storyweaver star level increases Kayle's Health and Ability Power. Kayle gets @BonusASPerStage*100@% Attack Speed for each game Stage."
+            },
+            {
+              "name": "Umbral",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 4,
+              "description": "The moon illuminates hexes, Shielding units placed in them at the start of combat. Umbral units in illuminated hexes execute low Health enemies.(@MinUnits@) @ShieldAmount@&nbsp;Shield; @DesireExecuteThreshhold@% Health execute(@MinUnits@) @ShieldAmount@&nbsp;Shield; @DesireExecuteThreshhold@% Health execute. More hexes are illuminated (@MinUnits@) @ShieldAmount@&nbsp;Shield; @DesireExecuteThreshhold@% Health execute. Illuminate the whole board(@MinUnits@) Executed enemies have a @DesireExecuteRewardPercent*100@% chance to drop loot; @DesireExecuteThreshhold@% Health execute "
+            },
+            {
+              "name": "Warden",
+              "num_units": 6,
+              "style": 3,
+              "tier_current": 3,
+              "tier_total": 3,
+              "description": "Wardens take less damage. For the first @Duration@&nbsp;seconds of combat, they take an additional @StartOfCombatDRPercent@% less damage. (@MinUnits@) @DRPercent@% less damage"
+            }
+          ],
+          "units": [
+            {
+              "name": "Jax",
+              "rarity": 0,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Sage Emblem",
+                  "description": "The holder gains the Sage trait.[Unique - only 1 per champion.]"
+                }
+              ],
+              "traits": [
+                "Inkshadow",
+                "Warden"
+              ]
+            },
+            {
+              "name": "Garen",
+              "rarity": 0,
+              "tier": 3,
+              "items": [
+                {
+                  "name": "Silvermere Dawn",
+                  "description": "Grants immunity to stuns and the holder's attacks stun the target for 0.800000011920929 seconds.The holder's attack speed is locked at 0.5."
+                },
+                {
+                  "name": "Dragon's Claw",
+                  "description": "Gain 9% max health.Every 2 seconds, heal 5% max Health."
+                },
+                {
+                  "name": "Titan's Resolve",
+                  "description": "Gain 2% Attack Damage and 1 Ability Power when attacking or taking damage, stacking up to 25 times.  At full stacks, gain 20 Armor and @BonusResistsAtStackCap@ Magic Resist."
+                }
+              ],
+              "traits": [
+                "Storyweaver",
+                "Warden"
+              ]
+            },
+            {
+              "name": "Gnar",
+              "rarity": 1,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Chain Vest",
+                  "description": "%i:scaleArmor% +20 Armor"
+                }
+              ],
+              "traits": [
+                "Dryad",
+                "Warden"
+              ]
+            },
+            {
+              "name": "Zyra",
+              "rarity": 1,
+              "tier": 2,
+              "items": [],
+              "traits": [
+                "Storyweaver",
+                "Sage"
+              ]
+            },
+            {
+              "name": "Illaoi",
+              "rarity": 2,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Thief's Gloves",
+                  "description": "Each round: Equip 2 random items.[Consumes 3 item slots.]"
+                },
+                {
+                  "name": "Runaan's Hurricane",
+                  "description": "Attacks fire a bolt at a nearby enemy, dealing 55% Attack Damage %i:scaleAD% as physical damage."
+                },
+                {
+                  "name": "Blue Buff",
+                  "description": "Max mana reduced by 10. When the holder gets a takedown, they deal 8% more damage for 8 seconds.[Unique - only 1 per champion]"
+                }
+              ],
+              "traits": [
+                "Ghostly",
+                "Arcanist",
+                "Warden"
+              ]
+            },
+            {
+              "name": "Zoe",
+              "rarity": 2,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Moonstone Renewer",
+                  "description": "Every 4 seconds, grant a 60-360 Shield (based on stage) to the 2 lowest percent health allies for 4 seconds.​​[Support item]"
+                },
+                {
+                  "name": "Jeweled Gauntlet",
+                  "description": "Abilities can critically strike.If the holder's abilities can already critically strike, gain 10% Critical Strike Damage instead."
+                }
+              ],
+              "traits": [
+                "Fortune",
+                "Storyweaver",
+                "Arcanist"
+              ]
+            },
+            {
+              "name": "Morgana",
+              "rarity": 4,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Guardbreaker",
+                  "description": "After damaging a Shield, deal 25% more damage for 3 seconds."
+                },
+                {
+                  "name": "Morellonomicon",
+                  "description": "Attacks and Abilities deal 1% Burn and 33% Wound to enemies for 10 seconds.[Unique - only 1 per champion]Burn: Deals a percent of the target's maximum Health as true damage every secondWound: Reduces healing received"
+                },
+                {
+                  "name": "Hextech Gunblade",
+                  "description": "Gain 20% Omnivamp, which also heals the lowest percent Health ally.Healing: @TFTUnitProperty.item:TFT_Tracker_Value1@Omnivamp: heal for some of damage dealt"
+                }
+              ],
+              "traits": [
+                "Ghostly",
+                "Sage"
+              ]
+            },
+            {
+              "name": "Nautilus",
+              "rarity": 4,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Bramble Vest",
+                  "description": "Gain 5% max health.Take 8% reduced damage from attacks. When struck by any attack, deal 100 magic damage to all adjacent enemies.Cooldown: 2 seconds"
+                }
+              ],
+              "traits": [
+                "Mythic",
+                "Warden"
+              ]
+            },
+            {
+              "name": "Sett",
+              "rarity": 6,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Diamond Hands",
+                  "description": "Once per combat: At 50% Health, become invulnerable for 1.5 seconds and grant %i:goldCoins% 1 gold.[Unique - only 1 per champion]"
+                },
+                {
+                  "name": "Giant Slayer",
+                  "description": "Deal 25% more damage to enemies with more than 1750 maximum Health."
+                }
+              ],
+              "traits": [
+                "Fated",
+                "Umbral",
+                "Warden"
+              ]
+            },
+            {
+              "name": "Wukong",
+              "rarity": 6,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Statikk Shiv",
+                  "description": "Every 3rd attack deals 35 magic damage and 30% Shreds 4 enemies for 5 seconds.Shred: Reduce Magic Resist"
+                }
+              ],
+              "traits": [
+                "Great",
+                "Heavenly",
+                "Sage"
+              ]
+            },
+            {
+              "name": "Kayle",
+              "rarity": 9,
+              "tier": 1,
+              "items": [
+                {
+                  "name": "Talisman of Aid",
+                  "description": "Kayle's damaging attacks and abilities 20% Shred and Sunder enemies hit for 3 seconds."
+                }
+              ],
+              "traits": []
+            }
+          ]
+        }
+      ],
+      "queueId": 1100,
+      "queue_id": 1100,
+      "tft_game_type": "standard",
+      "tft_set_core_name": "TFTSet11",
+      "tft_set_number": 11,
+      "patchVersion": "14.13"
+    }
+  },
+  {
+    "metadata": {
+      "data_version": "5",
+      "match_id": "NA1_5027754542",
+      "participants": [
+        "-ue5zdcEKJpyn9vZxYL8mYSGjgezwJp1mKInIrFc13P6XOAZpk_0pgygCcP6zpi_F4fS45TBAvlrjQ",
+        "0ljiyfgR1zESQClJLO7NG6EREZPH509LeEKWWQudC4ZYkSC0zhZ-OuRtS3uNCjH4ymi-nvzqSH7oBQ",
+        "zTnQNQEmstjLLcxqLUN26do5_pOnrK68CqPFO0JppksbqzArs1CszRcXHn6IbOB_e6b-y-v6299QXg",
+        "sKU8qHbvIMCUMVaxg1LzajekxASSyc57AFQ8RzYCooo5wENyU44v_fnPm38-qGqORL23fMev59-R3g",
+        "aeDdqu6Xq9UnwI-FlA3fmuKIbrKJEteb_9GDPcv922U8oT1FZFUE-NfH18wuCvF7P9M61uMlD0L-7g",
+        "bAfVCdVWtkvEMvs3iFcu9a3XLdFkEs4c9xGK5O96N3wvBx4i1jtHh3a_B13caHD_ohtLk4_aZpPpaQ",
+        "ryy6fRSvMgRz-LKYEdyWhNW7OBDPQPf7guElSCngiSIkLvYCC4uk0SmJom4k8xyQo706yVABxjWBfQ",
+        "OSLEvWRij4Wn6xFgtn2f8vbWfgnf24lRDyBNwhr4Rlc-W0BcjGxhZCbRNCWupspX4ysrp5Ry24dpuA"
+      ]
+    },
+    "info": {
+      "endOfGameResult": "GameComplete",
+      "gameCreation": 1719404581000,
+      "gameId": 5027754542,
+      "game_datetime": 1719406833410,
+      "game_length": 2173.772705078125,
+      "game_version": "Linux Version 14.13.596.4541 (Jun 20 2024/17:19:43) [PUBLIC] <Releases/14.13>",
+      "mapId": 22,
+      "participants": [
+        {
+          "rank": 69,
+          "summonerName": "Flandre",
+          "tier": "challenger",
+          "leaguePoints": 1126,
+          "region": "na1",
+          "augments": [
+            {
+              "name": "Pumping Up II",
+              "rarity": 2,
+              "description": "Your team gains 8% Attack Speed now. Each round after, they gain 1% more. (current Attack Speed: @TFTUnitProperty.item:TFT9_PumpingUp2Rounds@%)"
+            },
+            {
+              "name": "Reaper Crown",
+              "rarity": 3,
+              "description": "Gain a Reaper Emblem, a Hand of Justice, and a Kindred."
+            },
+            {
+              "name": "Harmacist I",
+              "rarity": 2,
+              "description": "Your team has 10% Omnivamp and converts 20% of excess healing to true damage on their next attack.<br><br><rules>(Omnivamp: healing for a percent of damage dealt)</rules>"
+            }
+          ],
+          "companion": {
+            "content_ID": "7701a88c-ccd6-49b7-935f-5a2c7265aaed",
+            "item_ID": 39018,
+            "skin_ID": 18,
+            "species": "PetBallDragon"
+          },
+          "gold_left": 1,
+          "last_round": 38,
+          "level": 10,
+          "missions": {
+            "PlayerScore2": 216
+          },
+          "placement": 1,
+          "players_eliminated": 3,
+          "puuid": "aeDdqu6Xq9UnwI-FlA3fmuKIbrKJEteb_9GDPcv922U8oT1FZFUE-NfH18wuCvF7P9M61uMlD0L-7g",
+          "time_eliminated": 2165.578125,
+          "total_damage_to_players": 168,
+          "traits": [
+            {
+              "name": "Behemoth",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 3,
+              "description": "Behemoths gain increased Armor and Magic&nbsp;Resist. Whenever a Behemoth dies, the nearest Behemoth gains @BonusPercent*100@% more for @Duration@ seconds.(@MinUnits@) @Defenses@&nbsp;%i:scaleArmor%%i:scaleMR%"
+            },
+            {
+              "name": "Bruiser",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 4,
+              "description": "Your team gains @TeamBonusHealth@ maximum Health. Bruisers gain additional maximum Health. (@MinUnits@) @BonusPercentHealth*100@%&nbsp;%i:scaleHealth%(@MinUnits@) @BonusPercentHealth*100@%&nbsp;%i:scaleHealth%(@MinUnits@) @BonusPercentHealth*100@%&nbsp;%i:scaleHealth%(@MinUnits@) @BonusPercentHealth*100@%&nbsp;%i:scaleHealth%; Every @RefreshSeconds@&nbsp;seconds, Bruisers deal @SlamPercentHealth*100@%&nbsp;%i:scaleHealth% bonus physical&nbsp;damage on their next attack."
+            },
+            {
+              "name": "Dragonlord",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 4,
+              "description": "After @FirstDelay@ seconds of combat, the Dragon strikes the board, dealing true damage to enemies and granting all allies Attack Speed for the rest of combat.(@MinUnits@) @TrueDamageHPRatio*100@%&nbsp;%i:scaleHealth% damage, @AttackSpeedBuff*100@% %i:scaleAS%.(@MinUnits@) @TrueDamageHPRatio*100@%&nbsp;%i:scaleHealth% damage, @AttackSpeedBuff*100@% %i:scaleAS%.(@MinUnits@) @TrueDamageHPRatio*100@%&nbsp;%i:scaleHealth% damage and Stuns for @StunDuration@ seconds.(@MinUnits@) @TrueDamageHPRatio*100@%&nbsp;%i:scaleHealth% damage, @AttackSpeedBuff*100@% %i:scaleAS%."
+            },
+            {
+              "name": "Dryad",
+              "num_units": 4,
+              "style": 3,
+              "tier_current": 2,
+              "tier_total": 3,
+              "description": "Dryads gain Ability Power and @StartingHealth@ Health. Each enemy death grants permanent additional Health.(@MinUnits@) @AP@&nbsp;%i:scaleAP%; @HealthPerCompost@&nbsp;%i:scaleHealth% per enemy death(Total health: @TFTUnitProperty.trait:TFT11_Trait_DryadHealth@&nbsp;%i:scaleHealth%)(Enemies killed: @TFTUnitProperty.trait:TFT11_Trait_DryadCompost@)"
+            },
+            {
+              "name": "Exalted",
+              "num_units": 3,
+              "style": 2,
+              "tier_current": 1,
+              "tier_total": 2,
+              "description": "Your team gains @BaseDamageAmp@% bonus damage, plus more based on your level.After combat, store XP in a Soul Core. Sell the Core to claim the XP.(@MinUnits@) @DamageAmpPerLevel@% damage per level, @BaseAmountXP@ XP.(@MinUnits@) @DamageAmpPerLevel@% damage per level, @BaseAmountXP@ XP.(Current bonus: @TFTUnitProperty.trait:TFT11_Trait_Exalted_CurrentBonus@%). Each game a different set of units is Exalted."
+            },
+            {
+              "name": "Fated",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 4,
+              "description": "Hover one Fated unit over another to form a pair and unlock a Fated Bonus. Your pair gains @PairHPBonus*100@% %i:scaleHealth%.(@MinUnits@) Pair gets the Fated Bonus. (@MinUnits@) All Fated champions get @BondIncreasePercent*100@% of the Fated Bonus (@MinUnits@) All Fated champions get @BondIncreasePercent*100@% of the Fated Bonus (@MinUnits@) All Fated champions gain @BondIncreasePercent*100@% of EVERY Fated Bonus "
+            },
+            {
+              "name": "Ghostly",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 4,
+              "description": "Upon dealing or taking damage @NumInstances@ times, Ghostly units send @NumSpectres@ spectres to haunt nearby enemies and heal @HealingPercent*100@%&nbsp;max Health every @TickRate@ seconds. Haunted enemies take bonus damage for each spectre on them, and pass spectres on death.(@MinUnits@) @DamagePercent*100@% per spectre"
+            },
+            {
+              "name": "Invoker",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 3,
+              "description": "Every @TickRate@ seconds, your units gain Mana.(@MinUnits@) @TeamMana@&nbsp;%i:scaleMana% to all allies.(@MinUnits@) @InvokerMana@&nbsp;%i:scaleMana% to Invokers; @TeamMana@&nbsp;%i:scaleMana% to others.(@MinUnits@) @InvokerMana@&nbsp;%i:scaleMana% to Invokers; @TeamMana@&nbsp;%i:scaleMana% to others."
+            },
+            {
+              "name": "Reaper",
+              "num_units": 4,
+              "style": 3,
+              "tier_current": 2,
+              "tier_total": 2,
+              "description": "(@MinUnits@) Reapers' Abilities can critically strike and they gain @CritChance*100@% Critical Strike Chance.(@MinUnits@) Additionally, Reapers bleed enemies for @BleedDamage*100@% bonus true damage over @Duration@&nbsp;seconds."
+            },
+            {
+              "name": "Storyweaver",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 4,
+              "description": "Storyweavers summon a Hero named Kayle and evolve her. Storyweavers gain max Health.(@MinUnits@) Pick a supportive effect. @Health@&nbsp;%i:scaleHealth%(@MinUnits@) Pick a combat effect. @Health@&nbsp;%i:scaleHealth%(@MinUnits@) Pick a combat effect. @Health@&nbsp;%i:scaleHealth%(@MinUnits@) Ascend. @Health@&nbsp;%i:scaleHealth%Each Storyweaver star level increases Kayle's Health and Ability Power. Kayle gets @BonusASPerStage*100@% Attack Speed for each game Stage."
+            },
+            {
+              "name": "Umbral",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 4,
+              "description": "The moon illuminates hexes, Shielding units placed in them at the start of combat. Umbral units in illuminated hexes execute low Health enemies.(@MinUnits@) @ShieldAmount@&nbsp;Shield; @DesireExecuteThreshhold@% Health execute(@MinUnits@) @ShieldAmount@&nbsp;Shield; @DesireExecuteThreshhold@% Health execute. More hexes are illuminated (@MinUnits@) @ShieldAmount@&nbsp;Shield; @DesireExecuteThreshhold@% Health execute. Illuminate the whole board(@MinUnits@) Executed enemies have a @DesireExecuteRewardPercent*100@% chance to drop loot; @DesireExecuteThreshhold@% Health execute "
+            },
+            {
+              "name": "Warden",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 3,
+              "description": "Wardens take less damage. For the first @Duration@&nbsp;seconds of combat, they take an additional @StartOfCombatDRPercent@% less damage. (@MinUnits@) @DRPercent@% less damage"
+            }
+          ],
+          "units": [
+            {
+              "name": "Gnar",
+              "rarity": 1,
+              "tier": 2,
+              "items": [],
+              "traits": [
+                "Dryad",
+                "Warden"
+              ]
+            },
+            {
+              "name": "Janna",
+              "rarity": 1,
+              "tier": 1,
+              "items": [],
+              "traits": [
+                "Dragonlord",
+                "Invoker"
+              ]
+            },
+            {
+              "name": "Shen",
+              "rarity": 1,
+              "tier": 1,
+              "items": [
+                {
+                  "name": "Spite",
+                  "description": "When this unit dies, reduce the Attack Damage and Ability Power of enemy units within 2-hexes by 25% for 15 seconds.Allies within the explosion range gain 40% Attack Damage and Ability Power for the same duration.​​[Support item]"
+                }
+              ],
+              "traits": [
+                "Ghostly",
+                "Behemoth"
+              ]
+            },
+            {
+              "name": "Kindred",
+              "rarity": 1,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Morellonomicon",
+                  "description": "Attacks and Abilities deal 1% Burn and 33% Wound to enemies for 10 seconds.[Unique - only 1 per champion]Burn: Deals a percent of the target's maximum Health as true damage every secondWound: Reduces healing received"
+                },
+                {
+                  "name": "Giant Slayer",
+                  "description": "Deal 25% more damage to enemies with more than 1750 maximum Health."
+                }
+              ],
+              "traits": [
+                "Fated",
+                "Dryad",
+                "Reaper"
+              ]
+            },
+            {
+              "name": "Yone",
+              "rarity": 2,
+              "tier": 3,
+              "items": [
+                {
+                  "name": "Titan's Resolve",
+                  "description": "Gain 2% Attack Damage and 1 Ability Power when attacking or taking damage, stacking up to 25 times.  At full stacks, gain 20 Armor and @BonusResistsAtStackCap@ Magic Resist."
+                },
+                {
+                  "name": "Hand Of Justice",
+                  "description": "Gain 2 effects:15% Attack Damage and 15 Ability Power.15% Omnivamp.Each round, randomly double 1 of these effects.Omnivamp: heal for some of damage dealt"
+                },
+                {
+                  "name": "Sterak's Gage",
+                  "description": "Once per combat at 60% Health, gain 25% max Health and 35% Attack Damage."
+                }
+              ],
+              "traits": [
+                "Umbral",
+                "Reaper"
+              ]
+            },
+            {
+              "name": "Sylas",
+              "rarity": 4,
+              "tier": 1,
+              "items": [
+                {
+                  "name": "Reaper Emblem",
+                  "description": "The holder gains the Reaper trait.[Unique - only 1 per champion.]"
+                },
+                {
+                  "name": "Crownguard",
+                  "description": "Combat start: Gain a 30% max Health Shield for 8 seconds.When the shield expires, gain 35 Ability Power."
+                }
+              ],
+              "traits": [
+                "Umbral",
+                "Bruiser"
+              ]
+            },
+            {
+              "name": "Ornn",
+              "rarity": 4,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Evenshroud",
+                  "description": "30% Sunder enemies within 2 hexes. Gain 25 Armor and Magic Resist for the first 10 seconds of combat.Sunder: Reduce Armor"
+                },
+                {
+                  "name": "Ionic Spark",
+                  "description": "30% Shred enemies within 2 hexes. When enemies cast an Ability, deal magic damage equal to 160% of their maximum Mana.Shred: Reduce Magic Resist"
+                }
+              ],
+              "traits": [
+                "Dryad",
+                "Behemoth"
+              ]
+            },
+            {
+              "name": "Kayn",
+              "rarity": 4,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Hand Of Justice",
+                  "description": "Gain 2 effects:15% Attack Damage and 15 Ability Power.15% Omnivamp.Each round, randomly double 1 of these effects.Omnivamp: heal for some of damage dealt"
+                },
+                {
+                  "name": "Last Whisper",
+                  "description": "Physical damage 30% Sunders the target for 3 seconds. This effect does not stack.[Unique - only 1 per champion]Sunder: Reduce Armor"
+                },
+                {
+                  "name": "Edge of Night",
+                  "description": "Once per combat: At 60% Health, briefly become untargetable and shed negative effects. Then, gain 15% bonus Attack Speed.[Unique - only 1 per champion]"
+                }
+              ],
+              "traits": [
+                "Ghostly",
+                "Reaper"
+              ]
+            },
+            {
+              "name": "Galio",
+              "rarity": 4,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Warmog's Armor",
+                  "description": "Gain 8% max health."
+                }
+              ],
+              "traits": [
+                "Storyweaver",
+                "Bruiser"
+              ]
+            },
+            {
+              "name": "Azir",
+              "rarity": 6,
+              "tier": 1,
+              "items": [
+                {
+                  "name": "Guardbreaker",
+                  "description": "After damaging a Shield, deal 25% more damage for 3 seconds."
+                }
+              ],
+              "traits": [
+                "Dryad",
+                "Invoker"
+              ]
+            }
+          ]
+        }
+      ],
+      "queueId": 1100,
+      "queue_id": 1100,
+      "tft_game_type": "standard",
+      "tft_set_core_name": "TFTSet11",
+      "tft_set_number": 11,
+      "patchVersion": "14.13"
+    }
+  },
+  {
+    "metadata": {
+      "data_version": "5",
+      "match_id": "NA1_5027754027",
+      "participants": [
+        "iYa5KkbqExUUKhMqTNhM3qegVtbmTrNzY3IpXF2izYp9S8IvlfZ-JD-yn7GnU1P6qAc6cjf_puMedg",
+        "y5LrIMjcaMrqfREHN3FGr1o9R8x1h7ly9K-_A5kSoTAN-N0i8rsCC1efuD0t48cTFP3nlQzKPZuGQA",
+        "RrohRcGqGsbSr_n7G-fxpyCiEHWpOeAFX0YPJFbkvFWS_CyXIL0zL6QeyAHbSqEIxnZyTKPBdqVsOA",
+        "bAfVCdVWtkvEMvs3iFcu9a3XLdFkEs4c9xGK5O96N3wvBx4i1jtHh3a_B13caHD_ohtLk4_aZpPpaQ",
+        "DbCldIU_zVsTkodV4TWUOLq_RBsNL-2h7Mo2YVB7PGKF3rldRgLU2Mn0ZIby5MU6xfgw721_557oHg",
+        "zTnQNQEmstjLLcxqLUN26do5_pOnrK68CqPFO0JppksbqzArs1CszRcXHn6IbOB_e6b-y-v6299QXg",
+        "pxRU0UqxjYErMfwwaiovZj1abN95fYE4CFBOSivjWCB9Dd1Kp20GqW1HIqFZdTFRE_Mz7xmphpAWVA",
+        "ThOlhEOprsOmniWPhOinFeQTty4xRRLEBdhzDFS_UvkcFiZxe1wXX_lhiMePhge_B01uYcAapubaXw"
+      ]
+    },
+    "info": {
+      "endOfGameResult": "GameComplete",
+      "gameCreation": 1719401791000,
+      "gameId": 5027754027,
+      "game_datetime": 1719404153662,
+      "game_length": 2334.40478515625,
+      "game_version": "Linux Version 14.13.596.7996 (Jun 21 2024/16:23:19) [PUBLIC] <Releases/14.13>",
+      "mapId": 22,
+      "participants": [
+        {
+          "rank": 579,
+          "summonerName": "ArcaneKvothe",
+          "tier": "grandmaster",
+          "leaguePoints": 482,
+          "region": "na1",
+          "augments": [
+            {
+              "name": "Best Friends I",
+              "rarity": 1,
+              "description": "Units isolated in pairs gain 12% Attack Speed and 12 Armor at the start of combat."
+            },
+            {
+              "name": "Balanced Budget",
+              "rarity": 2,
+              "description": "At the start of the next 4 rounds, gain 7 gold."
+            },
+            {
+              "name": "Porcelain Crest",
+              "rarity": 2,
+              "description": "Gain a Porcelain Emblem and an Amumu."
+            }
+          ],
+          "companion": {
+            "content_ID": "3422ad41-bd41-4e7c-a9fe-068b0c80e730",
+            "item_ID": 71018,
+            "skin_ID": 18,
+            "species": "PetSmolKnifeDog"
+          },
+          "gold_left": 4,
+          "last_round": 39,
+          "level": 9,
+          "missions": {
+            "PlayerScore2": 232
+          },
+          "placement": 1,
+          "players_eliminated": 3,
+          "puuid": "ThOlhEOprsOmniWPhOinFeQTty4xRRLEBdhzDFS_UvkcFiZxe1wXX_lhiMePhge_B01uYcAapubaXw",
+          "time_eliminated": 2326.2294921875,
+          "total_damage_to_players": 178,
+          "traits": [
+            {
+              "name": "Arcanist",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 4,
+              "description": "Arcanists gain Ability&nbsp;Power and grant Ability&nbsp;Power to allies.(@MinUnits@) @TeamAbilityPower@&nbsp;%i:scaleAP% to all allies.(@MinUnits@) @ArcanistAbilityPower@&nbsp;%i:scaleAP% for Arcanists; @TeamAbilityPower@&nbsp;%i:scaleAP% for others(@MinUnits@) @ArcanistAbilityPower@&nbsp;%i:scaleAP% for Arcanists; @TeamAbilityPower@&nbsp;%i:scaleAP% for others(@MinUnits@) @ArcanistAbilityPower@&nbsp;%i:scaleAP% for Arcanists; @TeamAbilityPower@&nbsp;%i:scaleAP% for others"
+            },
+            {
+              "name": "Artist",
+              "num_units": 1,
+              "style": 5,
+              "tier_current": 1,
+              "tier_total": 1,
+              "description": "The Artist paints the champion you place in a special bench slot. Get a 1-star copy of the champion placed there when the Artist's work is complete.Rounds to Complete&nbsp;= Unit Cost"
+            },
+            {
+              "name": "Exalted",
+              "num_units": 3,
+              "style": 2,
+              "tier_current": 1,
+              "tier_total": 2,
+              "description": "Your team gains @BaseDamageAmp@% bonus damage, plus more based on your level.After combat, store XP in a Soul Core. Sell the Core to claim the XP.(@MinUnits@) @DamageAmpPerLevel@% damage per level, @BaseAmountXP@ XP.(@MinUnits@) @DamageAmpPerLevel@% damage per level, @BaseAmountXP@ XP.(Current bonus: @TFTUnitProperty.trait:TFT11_Trait_Exalted_CurrentBonus@%). Each game a different set of units is Exalted."
+            },
+            {
+              "name": "Fortune",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 3,
+              "description": "When you lose a player combat, gain Luck. The more fights in a row you lose, the more Luck you get.Lose Luck when you win. (@MinUnits@) Roll a die; in that many player combats, hold a Festival where you may convert your Luck into rewards.(@MinUnits@) Heal @Heal@ player health at the start of each player combat. @TFTUnitProperty.:TFT11_Trait_Fortune7Tooltip@Each Festival, roll a new die."
+            },
+            {
+              "name": "Inkshadow",
+              "num_units": 1,
+              "style": 0,
+              "tier_current": 0,
+              "tier_total": 3,
+              "description": "Gain unique Inkshadow items. Inkshadow champions gain @PercentBuff@% bonus damage and damage reduction.(@MinUnits@) @TFTUnitProperty.trait:TFT11_Trait_Inkshadow_Item1@(@MinUnits@) @TFTUnitProperty.trait:TFT11_Trait_Inkshadow_Item2@ and @IncreasedPercentBuff@% more bonus damage and damage reduction (@MinUnits@) @TFTUnitProperty.trait:TFT11_Trait_Inkshadow_Item3@, @TFTUnitProperty.trait:TFT11_Trait_Inkshadow_Item4@, and @IncreasedPercentBuff@% more bonus damage and damage reduction."
+            },
+            {
+              "name": "Invoker",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 3,
+              "description": "Every @TickRate@ seconds, your units gain Mana.(@MinUnits@) @TeamMana@&nbsp;%i:scaleMana% to all allies.(@MinUnits@) @InvokerMana@&nbsp;%i:scaleMana% to Invokers; @TeamMana@&nbsp;%i:scaleMana% to others.(@MinUnits@) @InvokerMana@&nbsp;%i:scaleMana% to Invokers; @TeamMana@&nbsp;%i:scaleMana% to others."
+            },
+            {
+              "name": "Mythic",
+              "num_units": 3,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 4,
+              "description": "Mythic champions gain Health, Ability Power, and Attack Damage.After 4 player combats, they become Epic, increasing the bonus by @Multiplier*100@%.(@MinUnits@) +@HealthPct*100@%&nbsp;%i:scaleHealth%, @AP@%&nbsp;%i:scaleAP%%i:scaleAD%(@MinUnits@) +@HealthPct*100@%&nbsp;%i:scaleHealth%, @AP@%&nbsp;%i:scaleAP%%i:scaleAD%(@MinUnits@) +@HealthPct*100@%&nbsp;%i:scaleHealth%, @AP@%&nbsp;%i:scaleAP%%i:scaleAD%(@MinUnits@) Instantly become Epic. The bonus is increased by @PrismaticMultiplier*100@% instead."
+            },
+            {
+              "name": "Porcelain",
+              "num_units": 6,
+              "style": 3,
+              "tier_current": 3,
+              "tier_total": 3,
+              "description": "After casting, Porcelain champions boil, gaining Attack Speed and taking less damage for @Duration@&nbsp;seconds.(@MinUnits@) @AS*100@%&nbsp;%i:scaleAS%; @DR*100@%&nbsp;reduced damage"
+            },
+            {
+              "name": "Sniper",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 3,
+              "description": "Innate: Snipers gain @HexRangeIncrease@&nbsp;Attack&nbsp;Range. Snipers deal more damage to targets farther away.(@MinUnits@) @PercentDamageIncrease@%&nbsp;damage per hex.(@MinUnits@) @PercentDamageIncrease@%&nbsp;damage per hex.(@MinUnits@) @PercentDamageIncrease@%&nbsp;damage per hex. Snipers gain an additional @BonusHexRangeIncrease@ Attack Range."
+            },
+            {
+              "name": "Warden",
+              "num_units": 2,
+              "style": 1,
+              "tier_current": 1,
+              "tier_total": 3,
+              "description": "Wardens take less damage. For the first @Duration@&nbsp;seconds of combat, they take an additional @StartOfCombatDRPercent@% less damage. (@MinUnits@) @DRPercent@% less damage"
+            }
+          ],
+          "units": [
+            {
+              "name": "Senna",
+              "rarity": 1,
+              "tier": 1,
+              "items": [],
+              "traits": [
+                "Inkshadow",
+                "Sniper"
+              ]
+            },
+            {
+              "name": "Lux",
+              "rarity": 1,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Morellonomicon",
+                  "description": "Attacks and Abilities deal 1% Burn and 33% Wound to enemies for 10 seconds.[Unique - only 1 per champion]Burn: Deals a percent of the target's maximum Health as true damage every secondWound: Reduces healing received"
+                }
+              ],
+              "traits": [
+                "Porcelain",
+                "Arcanist"
+              ]
+            },
+            {
+              "name": "Amumu",
+              "rarity": 2,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Bramble Vest",
+                  "description": "Gain 5% max health.Take 8% reduced damage from attacks. When struck by any attack, deal 100 magic damage to all adjacent enemies.Cooldown: 2 seconds"
+                },
+                {
+                  "name": "Gargoyle Stoneplate",
+                  "description": "Gain 10 Armor and 10 Magic Resist for each enemy targeting the holder."
+                }
+              ],
+              "traits": [
+                "Porcelain",
+                "Warden"
+              ]
+            },
+            {
+              "name": "Lillia",
+              "rarity": 4,
+              "tier": 2,
+              "items": [],
+              "traits": [
+                "Mythic",
+                "Invoker"
+              ]
+            },
+            {
+              "name": "Annie",
+              "rarity": 4,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Redemption",
+                  "description": "Heal allies within 1 hex for 15% of their missing Health every 5 seconds. They also take 10% less damage for @HealTickRate@ seconds (damage reduction does not stack).Healing: @TFTUnitProperty.item:TFT_Tracker_Value1@"
+                },
+                {
+                  "name": "Porcelain Emblem",
+                  "description": "The holder gains the Porcelain trait.[Unique - only 1 per champion.]"
+                },
+                {
+                  "name": "Dragon's Claw",
+                  "description": "Gain 9% max health.Every 2 seconds, heal 5% max Health."
+                }
+              ],
+              "traits": [
+                "Fortune",
+                "Invoker"
+              ]
+            },
+            {
+              "name": "Nautilus",
+              "rarity": 4,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Porcelain Emblem",
+                  "description": "The holder gains the Porcelain trait.[Unique - only 1 per champion.]"
+                },
+                {
+                  "name": "Protector's Vow",
+                  "description": "Once per combat at 40% Health, gain a 25% max Health Shield that lasts 5 seconds and gain 20 Armor and @Stats@ Magic Resist."
+                }
+              ],
+              "traits": [
+                "Mythic",
+                "Warden"
+              ]
+            },
+            {
+              "name": "Ashe",
+              "rarity": 4,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Deathblade",
+                  "description": "Deal 8% bonus damage."
+                },
+                {
+                  "name": "Guinsoo's Rageblade",
+                  "description": "Attacks grant 5% stacking Attack Speed."
+                },
+                {
+                  "name": "Infinity Edge",
+                  "description": "Abilities can critically strike.If the holder's abilities can already critically strike, gain 10% Critical Strike Damage instead."
+                }
+              ],
+              "traits": [
+                "Porcelain",
+                "Sniper"
+              ]
+            },
+            {
+              "name": "Hwei",
+              "rarity": 6,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Rabadon's Deathcap",
+                  "description": "Deal 20% bonus damage."
+                },
+                {
+                  "name": "Adaptive Helm",
+                  "description": "Combat start: Gain different bonuses based on starting position.Front Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.Back Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds."
+                }
+              ],
+              "traits": [
+                "Mythic",
+                "Artist"
+              ]
+            },
+            {
+              "name": "Lissandra",
+              "rarity": 6,
+              "tier": 2,
+              "items": [
+                {
+                  "name": "Edge of Night",
+                  "description": "Once per combat: At 60% Health, briefly become untargetable and shed negative effects. Then, gain 15% bonus Attack Speed.[Unique - only 1 per champion]"
+                }
+              ],
+              "traits": [
+                "Porcelain",
+                "Arcanist"
+              ]
+            }
+          ]
+        }
+      ],
+      "queueId": 1100,
+      "queue_id": 1100,
+      "tft_game_type": "standard",
+      "tft_set_core_name": "TFTSet11",
+      "tft_set_number": 11,
+      "patchVersion": "14.13"
+    }
+  }
+]
